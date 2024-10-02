@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\bin\Debug\BT02.exe.config
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\bin\Debug\BT02.exe
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\bin\Debug\BT02.pdb
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\obj\Debug\BT02.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\obj\Debug\BT02.Form1.resources
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\obj\Debug\BT02.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\obj\Debug\BT02.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\obj\Debug\BT02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\obj\Debug\BT02.exe
+C:\Users\ADMIN\Downloads\19_TienThy\Chuong3\BT02\obj\Debug\BT02.pdb
